@@ -1,5 +1,5 @@
 # Surveillance-Drone
-# Description
+Description
 <br>
 Mentored by Vice Chancellor Renu Vig, we have developed a surveillance drone in collaboration with General Aeronautics Pvt. Ltd.,
 Chandigarh, aimed at enhancing campus security. The drone is equipped with all essential components, including an Autopilot Orange
